@@ -2,7 +2,7 @@
 
 $(document).ready(function () {
     $("#ScriptTest").on("click", function () {
-        alert("Esto es un mensaje sin localizar.");
+        alert(_("Esto es un mensaje sin localizar."));
     });
 });
 

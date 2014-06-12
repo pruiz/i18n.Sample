@@ -1,16 +1,16 @@
 ﻿@{
-    ViewBag.Title = "Index";
+    ViewBag.Title = _("Index");
 }
 
-<h2>Indice</h2>
+<h2>@_("Indice")</h2>
 
-Esto es un texto de prueba, para ver como localizarlo.
+@_("Esto es un texto de prueba, para ver como localizarlo.")
 
 @using (@Html.BeginForm())
 {
     @Html.EditorForModel()
     
-    <input type="submit" value="enviar" />
+    <input type="submit" value=@_("enviar") />
 }
 
-<input id="ScriptTest" type="button" value="Prueba de Javascript" />
+<input id="ScriptTest" type="button" value=@_("Prueba de Javascript") />

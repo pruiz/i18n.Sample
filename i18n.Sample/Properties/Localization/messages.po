@@ -1,0 +1,56 @@
+#: i18n.Sample\Models\HomeModels.cs:13
+msgid "Nombre"
+msgstr ""
+
+#: i18n.Sample\Models\HomeModels.cs:18
+msgid "Este es un error sin traducir"
+msgstr ""
+
+#: i18n.Sample\Scripts\LocalizationDemo.js:5
+msgid "Esto es un mensaje sin localizar."
+msgstr ""
+
+#: i18n.Sample\Views\Home\Index.cshtml:2
+msgid "Index"
+msgstr ""
+
+#: i18n.Sample\Views\Home\Index.cshtml:5
+msgid "Indice"
+msgstr ""
+
+#: i18n.Sample\Views\Home\Index.cshtml:7
+msgid "Esto es un texto de prueba, para ver como localizarlo."
+msgstr ""
+
+#: i18n.Sample\Views\Home\Index.cshtml:13
+msgid "enviar"
+msgstr ""
+
+#: i18n.Sample\Views\Home\Index.cshtml:16
+msgid "Prueba de Javascript"
+msgstr ""
+
+#: i18n.Sample\Views\Localization\Help.cshtml:110
+#, csharp-format
+msgid "Encoded <b>text</b> with encoded {0}"
+msgstr ""
+
+#: i18n.Sample\Views\Localization\Help.cshtml:144
+#, csharp-format
+msgid "Raw HTML <b>text</b> with encoded {0}"
+msgstr ""
+
+#: i18n.Sample\Views\Localization\Help.cshtml:178
+#, csharp-format
+msgid "Raw HTML <b>text</b> with raw HTML {0}"
+msgstr ""
+
+#: i18n.Sample\Views\Localization\Help.cshtml:264
+#: i18n.Sample\Views\Localization\Help.cshtml:265
+#: i18n.Sample\Views\Localization\Help.cshtml:305
+#: i18n.Sample\Views\Localization\Help.cshtml:306
+#, csharp-format
+msgid "{0} <b>item</b> of {1}"
+msgid_plural "{0} <b>items</b> of {1}"
+msgstr[0] ""
+msgstr[1] ""

@@ -1,0 +1,128 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-06-12 09:05+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: U:\Users\rrodriguez\Sources\i18n.Sample\i18n.Sample\i18n.Sample\Views\Home\Index.cshtml:2
+msgid "Index"
+msgstr ""
+
+#: U:\Users\rrodriguez\Sources\i18n.Sample\i18n.Sample\i18n.Sample\Views\Home\Index.cshtml:5
+msgid "Indice"
+msgstr ""
+
+#: U:\Users\rrodriguez\Sources\i18n.Sample\i18n.Sample\i18n.Sample\Views\Home\Index.cshtml:7
+msgid "Esto es un texto de prueba, para ver como localizarlo."
+msgstr ""
+
+#: U:\Users\rrodriguez\Sources\i18n.Sample\i18n.Sample\i18n.Sample\Views\Home\Index.cshtml:13
+msgid "enviar"
+msgstr ""
+
+#: U:\Users\rrodriguez\Sources\i18n.Sample\i18n.Sample\i18n.Sample\Views\Home\Index.cshtml:16
+msgid "Prueba de Javascript"
+msgstr ""
+
+#: U:\Users\rrodriguez\Sources\i18n.Sample\i18n.Sample\i18n.Sample\Views\Localization\Help.cshtml:110
+#, csharp-format
+msgid "Encoded <b>text</b> with encoded {0}"
+msgstr ""
+
+#: U:\Users\rrodriguez\Sources\i18n.Sample\i18n.Sample\i18n.Sample\Views\Localization\Help.cshtml:144
+#, csharp-format
+msgid "Raw HTML <b>text</b> with encoded {0}"
+msgstr ""
+
+#: U:\Users\rrodriguez\Sources\i18n.Sample\i18n.Sample\i18n.Sample\Views\Localization\Help.cshtml:178
+#, csharp-format
+msgid "Raw HTML <b>text</b> with raw HTML {0}"
+msgstr ""
+
+#: U:\Users\rrodriguez\Sources\i18n.Sample\i18n.Sample\i18n.Sample\Views\Localization\Help.cshtml:264
+#: U:\Users\rrodriguez\Sources\i18n.Sample\i18n.Sample\i18n.Sample\Views\Localization\Help.cshtml:265
+#: U:\Users\rrodriguez\Sources\i18n.Sample\i18n.Sample\i18n.Sample\Views\Localization\Help.cshtml:305
+#: U:\Users\rrodriguez\Sources\i18n.Sample\i18n.Sample\i18n.Sample\Views\Localization\Help.cshtml:306
+#, csharp-format
+msgid "{0} <b>item</b> of {1}"
+msgid_plural "{0} <b>items</b> of {1}"
+msgstr[0] ""
+msgstr[1] ""
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-06-12 09:05+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: U:\Users\rrodriguez\Sources\i18n.Sample\i18n.Sample\i18n.Sample\Views\Home\Index.cshtml:2
+msgid "Index"
+msgstr ""
+
+#: U:\Users\rrodriguez\Sources\i18n.Sample\i18n.Sample\i18n.Sample\Views\Home\Index.cshtml:5
+msgid "Indice"
+msgstr ""
+
+#: U:\Users\rrodriguez\Sources\i18n.Sample\i18n.Sample\i18n.Sample\Views\Home\Index.cshtml:7
+msgid "Esto es un texto de prueba, para ver como localizarlo."
+msgstr ""
+
+#: U:\Users\rrodriguez\Sources\i18n.Sample\i18n.Sample\i18n.Sample\Views\Home\Index.cshtml:13
+msgid "enviar"
+msgstr ""
+
+#: U:\Users\rrodriguez\Sources\i18n.Sample\i18n.Sample\i18n.Sample\Views\Home\Index.cshtml:16
+msgid "Prueba de Javascript"
+msgstr ""
+
+#: U:\Users\rrodriguez\Sources\i18n.Sample\i18n.Sample\i18n.Sample\Views\Localization\Help.cshtml:110
+#, csharp-format
+msgid "Encoded <b>text</b> with encoded {0}"
+msgstr ""
+
+#: U:\Users\rrodriguez\Sources\i18n.Sample\i18n.Sample\i18n.Sample\Views\Localization\Help.cshtml:144
+#, csharp-format
+msgid "Raw HTML <b>text</b> with encoded {0}"
+msgstr ""
+
+#: U:\Users\rrodriguez\Sources\i18n.Sample\i18n.Sample\i18n.Sample\Views\Localization\Help.cshtml:178
+#, csharp-format
+msgid "Raw HTML <b>text</b> with raw HTML {0}"
+msgstr ""
+
+#: U:\Users\rrodriguez\Sources\i18n.Sample\i18n.Sample\i18n.Sample\Views\Localization\Help.cshtml:264
+#: U:\Users\rrodriguez\Sources\i18n.Sample\i18n.Sample\i18n.Sample\Views\Localization\Help.cshtml:265
+#: U:\Users\rrodriguez\Sources\i18n.Sample\i18n.Sample\i18n.Sample\Views\Localization\Help.cshtml:305
+#: U:\Users\rrodriguez\Sources\i18n.Sample\i18n.Sample\i18n.Sample\Views\Localization\Help.cshtml:306
+#, csharp-format
+msgid "{0} <b>item</b> of {1}"
+msgid_plural "{0} <b>items</b> of {1}"
+msgstr[0] ""
+msgstr[1] ""
