@@ -17,5 +17,8 @@ namespace i18n.Sample.Models
 
 		[Required(ErrorMessage = "Este es un error sin traducir")]
         public string CampoRequerido { get; set; }
+
+		[Required]
+		public string ErrorDefault { get; set; }
     }
 }

@@ -1,3 +1,13 @@
+#: i18n.Sample\Controllers\HomeController.cs:16
+msgid "Esto es otra cadena multilinea"
+msgstr ""
+
+#: i18n.Sample\Controllers\HomeController.cs:19
+msgid ""
+"Y esta usa una\n"
+"                  arroba"
+msgstr ""
+
 #: i18n.Sample\Models\HomeModels.cs:13
 msgid "Nombre"
 msgstr ""
@@ -27,6 +37,10 @@ msgid "enviar"
 msgstr ""
 
 #: i18n.Sample\Views\Home\Index.cshtml:16
+msgid "Esto es una cadena multilinea"
+msgstr ""
+
+#: i18n.Sample\Views\Home\Index.cshtml:19
 msgid "Prueba de Javascript"
 msgstr ""
 

@@ -13,6 +13,12 @@ namespace i18n.Sample.Controllers
 		[HttpGet]
 		public virtual ActionResult Index()
 		{
+			var a = _("Esto es otra cadena"
+				+ " multilinea");
+
+			var b = _(@"Y esta usa una
+                  arroba");
+
 			return View();
 		}
 
